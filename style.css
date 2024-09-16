@@ -25,10 +25,9 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
-    background-color: black;
-    padding: 3px;
+<div class="Jadedrose215-style">
+    <h3>Jane Doe: Loves <em>dolphins</em> in Sarasota, FL</h3>
+</div>
 }
 
 .code-ninja-style {
